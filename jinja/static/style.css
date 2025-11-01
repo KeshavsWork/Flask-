@@ -1,0 +1,27 @@
+/* style.css */
+
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #e9ecef;
+    padding: 40px;
+    color: #222;
+}
+
+h1 {
+    text-align: center;
+    color: #007bff;
+    margin-bottom: 30px;
+}
+
+p {
+    font-size: 26px;
+    line-height: 1.5;
+    color: #4d89c9;
+    max-width: 600px;
+    margin: 10px auto;
+    text-align: center;
+}
+
+input[type="submit"]:hover {
+    background-color: #0056b3;
+}
